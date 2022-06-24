@@ -1,1 +1,1 @@
-# I'm Heshan Thenura Kariyawasam [website]
+# I'm Heshan Thenura Kariyawasam [heshanthenura.github.io]
