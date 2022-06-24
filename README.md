@@ -1,5 +1,6 @@
 # I'm Heshan Thenura Kariyawasam 
 ![Profile views](https://gpvc.arturio.dev/heshanthenura)
+[![GitLab commit count](https://badgen.net/gitlab/commits/heshanthenura/)]
 
 [![Heshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=heshanthenura&theme=synthwave)
 
