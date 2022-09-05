@@ -1,7 +1,7 @@
 
 <h1 align="center">Heshan Thenura Kariyawasam </h1>
 
-<div align="center"><img width=40% src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif"></div>
+<div align="center"><img width=10% src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif"></div>
 
 ## I love Mathematics and Programming
 
