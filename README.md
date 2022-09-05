@@ -1,9 +1,11 @@
 
 <h1 align="center">Heshan Thenura Kariyawasam </h1>
 
+<div align="center"><img width=40% src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif"></div>
+
 ## I love Mathematics and Programming
 
-<iframe src="https://giphy.com/embed/bx3Cvt88j7PtM4SOaS" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Sigma-Software-transparent-bx3Cvt88j7PtM4SOaS">via GIPHY</a></p>
+
 
 <br>
 <br>
