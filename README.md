@@ -3,9 +3,12 @@
 
 </h1>
 
-<div align="center">
-<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fheshantk%3Flang%3Den">
-<img src="https://img.shields.io/youtube/channel/subscribers/UC8UR2XC7gyAiu11b11D-HWw?style=social">
+<div align="center" style="display:flex;justify-content:center">
+
+<a href="https://twitter.com/heshantk?lang=en"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fheshantk%3Flang%3Den"></a>&nbsp;
+
+<a href="https://www.youtube.com/channel/UC8UR2XC7gyAiu11b11D-HWw"><img src="https://img.shields.io/youtube/channel/subscribers/UC8UR2XC7gyAiu11b11D-HWw?style=social"></a>&nbsp;
+
 </div>
 
 <div align="center">
