@@ -1,14 +1,11 @@
 
-<h1 align="center">
-
-# Heshan Thenura Kariyawasam 
+<h1 align="center">Heshan Thenura Kariyawasam 
 
 </h1>
 
 <div align="center">
-<a href="https://twitter.com/heshantk?lang=en"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fheshantk%3Flang%3Den"></a>
-
-<a href="https://www.youtube.com/channel/UC8UR2XC7gyAiu11b11D-HWw"><img src="https://img.shields.io/youtube/channel/subscribers/UC8UR2XC7gyAiu11b11D-HWw?style=social"></a>
+<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fheshantk%3Flang%3Den">
+<img src="https://img.shields.io/youtube/channel/subscribers/UC8UR2XC7gyAiu11b11D-HWw?style=social">
 </div>
 
 <div align="center">
