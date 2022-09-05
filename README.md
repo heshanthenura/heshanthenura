@@ -4,6 +4,7 @@
 <div align="center"><img width=10% src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif"></div>
 
 <h3 align="center">I love Mathematics and Programming</h1>
+<hr>
 
 <br>
 <br>
