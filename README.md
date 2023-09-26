@@ -1,6 +1,8 @@
 <h1 align="center">Heshan Thenura Kariyawasam </h1>
 
-## I am Heshan, a self-taught programmer with a relentless passion for tackling intricate challenges. My academic background spans pure mathematics, applied mathematics, physics, and computer science, providing me with a diverse toolkit for problem-solving.
+## I am a self-taught programmer from Sri Lanka
+
+Mostly I prefer Backend development.
 
 ### My Higher Education
 - Pure Mathematics
@@ -23,7 +25,6 @@
 - Socket
 - WebSocket
 
-![Heshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=heshanthenura&theme=synthwave)
 [![Heshan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heshanthenura&theme=blue-green)
 
 ### If you're interested in custom application development or would like to discuss a project, please don't hesitate to contact me.
