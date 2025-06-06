@@ -4,13 +4,7 @@
 
 <h2 align="center">Sri Lanka</h2>
 
-<ul type="none" style="display:flex">
-    <li><a href="https://twitter.com/Heshantk">Twitter</a></li>
-    <li><a href="https://www.linkedin.com/in/heshanthenura">LinkedIn</a></li>
-    <li><a href="https://www.instagram.com/heshan_thenura/">Instagram</a></li>
-    <li><a href="https://youtube.com/@heshanthenura">YouTube</a></li>
-    <li><a href="https://www.tiktok.com/@heshanthenura">TikTok</a></li>
-</ul>
+<div align="center"><a href="https://twitter.com/Heshantk">Twitter</a> | <a href="https://www.linkedin.com/in/heshanthenura">LinkedIn</a> | <a href="https://www.instagram.com/heshan_thenura/">Instagram</a> | <a href="https://youtube.com/@heshanthenura">YouTube</a> | <a href="https://www.tiktok.com/@heshanthenura">TikTok</a></div>
 
 ```bash
 
