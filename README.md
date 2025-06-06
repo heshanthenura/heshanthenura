@@ -3,7 +3,10 @@
 <h1 align="center">Hey there, I'm Heshan Thenura Kariyawasam <br>🌱Based in Sri Lanka 🇱🇰</h1>
 
 ```bash
-heshanthenura@github:~$ whoami
+heshanthenura@github:~$ cat aboutme.txt
+
+self-taught developer
+currently pursuing BSc (Hons) in Information Technology specialising in Cyber Security
 ```
 
 
