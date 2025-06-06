@@ -1,8 +1,9 @@
 <img src="./assets/banner.png">
 
-<h1 align="center">Heshan Thenura Kariyawasam <br> Sri Lanka</h1>
+<h1 align="center">Hey there, I'm Heshan Thenura Kariyawasam <br>🌱Based in Sri Lanka 🇱🇰</h1>
 
-<div align="center"><a href="https://twitter.com/Heshantk">Twitter</a> | <a href="https://www.linkedin.com/in/heshanthenura">LinkedIn</a> | <a href="https://www.instagram.com/heshan_thenura/">Instagram</a> | <a href="https://youtube.com/@heshanthenura">YouTube</a> | <a href="https://www.tiktok.com/@heshanthenura">TikTok</a></div>
+
+<div align="center"> <a href="https://twitter.com/Heshantk"><img width="50px" src="./assets/icons8-twitter.svg"></a> | <a href="https://www.linkedin.com/in/heshanthenura"><img width="50px" src="./assets/icons8-linkedin.svg"></a> | <a href="https://www.instagram.com/heshan_thenura/"><img width="50px" src="./assets/icons8-instagram.svg"></a> | <a href="https://youtube.com/@heshanthenura"><img width="50px" src="./assets/icons8-youtube.svg"></a> | <a href="https://www.tiktok.com/@heshanthenura"><img width="50px" src="./assets/icons8-tiktok.svg"></a> </div>
 
 ```bash
 
