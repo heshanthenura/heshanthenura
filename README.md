@@ -2,6 +2,8 @@
 
 <h1 align="center">Hey there, I'm Heshan Thenura Kariyawasam <br>🌱Based in Sri Lanka 🇱🇰</h1>
 
+<h2>
+
 ```bash
 heshanthenura@github:~$ cat aboutme.txt
 
@@ -9,10 +11,10 @@ self-taught developer
 currently pursuing BSc (Hons) in Information Technology specialising in Cyber Security
 ```
 ```bash
-heshanthenura@github:~$ curl -O https://github.com/heshanthenura/heshanthenura/blob/main/assets/CV-Heshan_Thenura_Kariyawasam.pdf
+curl -O https://github.com/heshanthenura/heshanthenura/blob/main/assets/CV-Heshan_Thenura_Kariyawasam.pdf
 ```
 ### 📄 Download my [CV](https://github.com/heshanthenura/heshanthenura/raw/main/assets/CV-Heshan_Thenura_Kariyawasam.pdf)
-
+</h2>
 
 
 ## 🛠️ I'm Playing with
