@@ -2,15 +2,16 @@
 
 <h1 align="center">Hey there, I'm Heshan Thenura Kariyawasam <br>🌱Based in Sri Lanka 🇱🇰</h1>
 
-
-<div align="center"> <a href="https://twitter.com/Heshantk"><img width="50px" src="./assets/icons8-twitter.svg"></a> | <a href="https://www.linkedin.com/in/heshanthenura"><img width="50px" src="./assets/icons8-linkedin.svg"></a> | <a href="https://www.instagram.com/heshan_thenura/"><img width="50px" src="./assets/icons8-instagram.svg"></a> | <a href="https://youtube.com/@heshanthenura"><img width="50px" src="./assets/icons8-youtube.svg"></a> | <a href="https://www.tiktok.com/@heshanthenura"><img width="50px" src="./assets/icons8-tiktok.svg"></a> </div>
-
 ```bash
-
-heshanthenura@heshanthenura:~/ whoami
-
-
+heshanthenura@github:~$ whoami
 ```
+
+
+## 🤙 Let's Connect & Collaborate
+I'm always open to ideas, collabs, or just a good tech convo. Whether you're building something cool, learning something new, or just exploring the world of code, reach out. Let’s build, break, fix, and learn together.
+
+<div align="center"><a href="https://twitter.com/Heshantk"><img width="50px" src="./assets/icons8-twitter.svg"></a><a href="https://www.linkedin.com/in/heshanthenura"><img width="50px" src="./assets/icons8-linkedin.svg"></a><a href="https://www.instagram.com/heshan_thenura/"><img width="50px" src="./assets/icons8-instagram.svg"></a><a href="https://youtube.com/@heshanthenura"><img width="50px" src="./assets/icons8-youtube.svg"></a><a href="https://www.tiktok.com/@heshanthenura"><img width="50px" src="./assets/icons8-tiktok.svg"></a></div>
+
 
 <!--
 <h1 align="center">Heshan Thenura Kariyawasam</h1>
