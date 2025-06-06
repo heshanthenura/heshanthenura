@@ -3,18 +3,17 @@
 <h1 align="center">Hey there, I'm Heshan Thenura Kariyawasam <br>🌱Based in Sri Lanka 🇱🇰</h1>
 
 <h2>
+heshanthenura@github:~$ cat aboutme.txt <br><br>
 
-```bash
-heshanthenura@github:~$ cat aboutme.txt
+self-taught developer<br>
+currently pursuing <strong> BSc (Hons) in Information Technology specialising in Cyber Security at [SLIIT](https://www.sliit.lk/)<strong>
+</h2>
 
-self-taught developer
-currently pursuing BSc (Hons) in Information Technology specialising in Cyber Security
-```
 ```bash
 curl -O https://github.com/heshanthenura/heshanthenura/blob/main/assets/CV-Heshan_Thenura_Kariyawasam.pdf
 ```
 ### 📄 Download my [CV](https://github.com/heshanthenura/heshanthenura/raw/main/assets/CV-Heshan_Thenura_Kariyawasam.pdf)
-</h2>
+
 
 
 ## 🛠️ I'm Playing with
@@ -35,6 +34,7 @@ curl -O https://github.com/heshanthenura/heshanthenura/blob/main/assets/CV-Hesha
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
