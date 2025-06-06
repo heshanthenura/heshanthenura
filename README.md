@@ -1,8 +1,6 @@
 <img src="./assets/banner.png">
 
-<h1 align="center">Heshan Thenura Kariyawasam</h1>
-
-<h2 align="center">Sri Lanka</h2>
+<h1 align="center">Heshan Thenura Kariyawasam <br> Sri Lanka</h1>
 
 <div align="center"><a href="https://twitter.com/Heshantk">Twitter</a> | <a href="https://www.linkedin.com/in/heshanthenura">LinkedIn</a> | <a href="https://www.instagram.com/heshan_thenura/">Instagram</a> | <a href="https://youtube.com/@heshanthenura">YouTube</a> | <a href="https://www.tiktok.com/@heshanthenura">TikTok</a></div>
 
