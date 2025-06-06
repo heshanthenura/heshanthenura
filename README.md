@@ -1,20 +1,45 @@
-<h1 align="center">Heshan Thenura Kariyawasam </h1>
+<img src="./assets/banner.png">
+
+<h1 align="center">Heshan Thenura Kariyawasam</h1>
+
+<h2 align="center">Sri Lanka</h2>
+
+<ul type="none" style="display:flex">
+    <li><a href="https://twitter.com/Heshantk">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/in/heshanthenura">LinkedIn</a></li>
+    <li><a href="https://www.instagram.com/heshan_thenura/">Instagram</a></li>
+    <li><a href="https://youtube.com/@heshanthenura">YouTube</a></li>
+    <li><a href="https://www.tiktok.com/@heshanthenura">TikTok</a></li>
+</ul>
+
+```bash
+
+heshanthenura@heshanthenura:~/ whoami
+
+
+```
+
+<!--
+<h1 align="center">Heshan Thenura Kariyawasam</h1>
 
 ## I am a self-taught programmer from Sri Lanka
 
 Mostly I prefer Backend development.
 
 ### My Higher Education
+
 - Pure Mathematics
 - Applied Mathematics
 - Physics
 - Information and Communication Technology
 
 ### Frameworks that I work with
+
 - JavaFX
 - Spring Boot
 
 ### Technologies that I use
+
 - Linux
 - Oracle Cloud
 - MySQL
@@ -37,4 +62,4 @@ Mostly I prefer Backend development.
     <li><a href="https://www.tiktok.com/@heshanthenura">TikTok</a></li>
 </ul>
 
-### [E-Mail](mailto:heshanthenura@protonmail.com) heshanthenura@protonmail.com
+### [E-Mail](mailto:heshanthenura@protonmail.com) heshanthenura@protonmail.com -->
