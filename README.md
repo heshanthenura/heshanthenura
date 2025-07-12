@@ -7,6 +7,7 @@ heshanthenura@github:~$ cat aboutme.txt <br><br>
 
 self-taught developer<br>
 currently pursuing <strong> BSc (Hons) in Information Technology specialising in Cyber Security at [SLIIT](https://www.sliit.lk/)</strong>
+
 </h2>
 
 ```bash
@@ -15,8 +16,9 @@ curl -O https://github.com/heshanthenura/heshanthenura/blob/main/assets/CV-Hesha
 ```
 
 ### 📄 My CV
-- [👀 View Online](https://github.com/heshanthenura/heshanthenura/blob/main/assets/CV-Heshan_Thenura_Kariyawasam.pdf)
-- [⬇️ Download PDF](https://github.com/heshanthenura/heshanthenura/raw/main/assets/CV-Heshan_Thenura_Kariyawasam.pdf)
+
+- [👀 View Online](https://github.com/heshanthenura/heshanthenura/blob/main/assets/CV-Heshan_Kariyawasam.pdf)
+- [⬇️ Download PDF](https://github.com/heshanthenura/heshanthenura/raw/main/assets/CV-Heshan_Kariyawasam.pdf)
 
 ## 🛠️ Tech Stack & Tools I Use
 
@@ -41,9 +43,8 @@ curl -O https://github.com/heshanthenura/heshanthenura/blob/main/assets/CV-Hesha
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)⠀
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)⠀
 
-
-
 ## 🤙 Let's Connect & Collaborate
+
 I'm always open to ideas, collabs, or just a good tech convo. Whether you're building something cool, learning something new, or just exploring the world of code, reach out. Let’s build, break, fix, and learn together.
 
 <div align="center"><a href="https://twitter.com/Heshantk"><img width="50px" src="./assets/icons8-twitter.svg"></a><a href="https://www.linkedin.com/in/heshanthenura"><img width="50px" src="./assets/icons8-linkedin.svg"></a><a href="https://www.instagram.com/heshan_thenura/"><img width="50px" src="./assets/icons8-instagram.svg"></a><a href="https://youtube.com/@heshanthenura"><img width="50px" src="./assets/icons8-youtube.svg"></a><a href="https://www.tiktok.com/@heshanthenura"><img width="50px" src="./assets/icons8-tiktok.svg"></a></div>
