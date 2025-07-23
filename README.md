@@ -12,7 +12,7 @@ currently pursuing <strong> BSc (Hons) in Information Technology specialising in
 
 ```bash
 # Download my CV with curl
-curl -O https://github.com/heshanthenura/heshanthenura/blob/main/assets/CV-Heshan_Thenura_Kariyawasam.pdf
+curl -O https://github.com/heshanthenura/heshanthenura/blob/main/assets/CV-Heshan_Kariyawasam.pdf
 ```
 
 ### 📄 My CV
