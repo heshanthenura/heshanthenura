@@ -9,19 +9,21 @@ self-taught developer<br>
 currently pursuing <strong> BSc (Hons) in Information Technology specialising in Cyber Security at [SLIIT](https://www.sliit.lk/)</strong>
 
 </h2>
-
+<!--
 ```bash
 # Download my CV with curl
 curl -O https://github.com/heshanthenura/heshanthenura/blob/main/assets/CV-Heshan_Kariyawasam.pdf
-```
-
+```<!--
+<!-- 
 ### 📄 My CV
 
+
+<!--
 - [👀 View Online](https://github.com/heshanthenura/heshanthenura/blob/main/assets/CV-Heshan_Kariyawasam.pdf)
 - [⬇️ Download PDF](https://github.com/heshanthenura/heshanthenura/raw/main/assets/CV-Heshan_Kariyawasam.pdf)
 
-## 🛠️ Tech Stack & Tools I Use
 
+## 🛠️ Tech Stack & Tools I Use
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)⠀
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)⠀
 ![JavaFX](https://img.shields.io/badge/JavaFX-5586A4?style=for-the-badge&logo=java&logoColor=white)⠀
@@ -50,7 +52,7 @@ I'm always open to ideas, collabs, or just a good tech convo. Whether you're bui
 <div align="center"><a href="https://twitter.com/Heshantk"><img width="50px" src="./assets/icons8-twitter.svg"></a><a href="https://www.linkedin.com/in/heshanthenura"><img width="50px" src="./assets/icons8-linkedin.svg"></a><a href="https://www.instagram.com/heshan_thenura/"><img width="50px" src="./assets/icons8-instagram.svg"></a><a href="https://youtube.com/@heshanthenura"><img width="50px" src="./assets/icons8-youtube.svg"></a><a href="https://www.tiktok.com/@heshanthenura"><img width="50px" src="./assets/icons8-tiktok.svg"></a></div>
 
 <h1 align="center"><a href="mailto:heshanthenura@gmail.com">heshanthenura@gmail.com</a></h1>
-
+-->
 <!--
 <h1 align="center">Heshan Thenura Kariyawasam</h1>
 
